@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ArtemSind
-- 👀 I’m interested in .NET and web development
-- 🌱 I’m currently learning ASP.NET Core
-- 📫 You can reach me by email: tyomych3007@gmail.com
+- 📫 You can find me on Telegram: @Artem_sin
 
-<!---
-ArtemSind/ArtemSind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4>CodeWars: </h4>
+
+[![codewars](https://www.codewars.com/users/Artem_Sin/badges/large)](https://www.codewars.com/users/Artem_Sin)
+
+<h4>LeetCode: </h4>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ArtemSind&theme=dark)](https://github.com/ArtemSind/leetcode-stats)
